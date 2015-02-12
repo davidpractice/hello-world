@@ -1,2 +1,3 @@
 # hello-world
-learning git
+learning git\n
+editing my first file
